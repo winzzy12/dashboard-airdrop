@@ -1,8 +1,8 @@
 <?php
 $host = "localhost";
-$db   = "database_db";
+$db   = "database_db;
 $user = "database_db";
-$pass = "Nusan3T_Open";
+$pass = "";
 
 try {
     $conn = new PDO("mysql:host=$host;dbname=$db", $user, $pass);
