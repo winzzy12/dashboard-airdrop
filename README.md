@@ -208,6 +208,12 @@ COMMIT;
    ```
    nano /var/www/html/dashboard-airdrop/config/database.php
    ```
-
+7. Running PHP Server
+   ```
+   php -S 0.0.0.0:8000
+   '''
+   ```
+   php -S localhost:8000
+   ```
    
    
