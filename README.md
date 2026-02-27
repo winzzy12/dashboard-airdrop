@@ -52,7 +52,7 @@ web dashboard for airdrop crypto
    mysql -u database_db -p
    ```
    ```
-   Password123
+   w@jd5FPr
    ```
    ```
    SHOW DATABASES;
