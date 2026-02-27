@@ -204,7 +204,7 @@ COMMIT;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 ```
-6. Setting Database PHP
+6. Setting Database PHP & change password mysql
    ```
    nano /var/www/html/dashboard-airdrop/config/database.php
    ```
