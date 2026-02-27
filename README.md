@@ -63,6 +63,7 @@ web dashboard for airdrop crypto
    ```
    SHOW TABLES;
    ```
+5. Export Database
 ```
    -- phpMyAdmin SQL Dump
 -- version 5.2.3
@@ -203,6 +204,7 @@ COMMIT;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 ```
+6. Setting Database PHP / ```nano /var/www/html/dashboard-airdrop/config/database.php```
 
    
    
