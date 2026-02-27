@@ -2,7 +2,7 @@
 $host = "localhost";
 $db   = "database_db";
 $user = "database_db";
-$pass = "Nusan3T_Open";
+$pass = "Password123";
 
 try {
     $conn = new PDO("mysql:host=$host;dbname=$db", $user, $pass);
