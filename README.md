@@ -41,7 +41,7 @@ web dashboard for airdrop crypto
    CREATE DATABASE database_db;
    ```
    ```
-   CREATE USER 'database_db'@'localhost' IDENTIFIED BY 'Password123';
+   CREATE USER 'database_db'@'localhost' IDENTIFIED BY 'w@jd5FPr';
    ```
    ```
    GRANT ALL PRIVILEGES ON database_db.* TO 'database_db'@'localhost';
